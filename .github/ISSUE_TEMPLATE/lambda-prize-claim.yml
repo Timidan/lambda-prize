@@ -9,9 +9,14 @@ body:
       value: |
         If you have been awarded a Lambda Prize, please complete this form with your data first:
 
-        **https://TBD.typeform.com/to/TBD**
+        **https://34z6hn3eyj7.typeform.com/to/xtlTNs82**
 
-        After submitting, open this issue and paste your **Typeform response ID** in the field below. We use it to match your answers to this ticket. If everything checks out, we will proceed with payment.
+        In the form, you will be provided with a **Typeform response ID**. Please save/copy it.
+        
+        After submitting the form, open this issue (via this template) and paste your **Typeform response ID** in the field below. We use it to match your answers to this ticket. If everything checks out, we will proceed with a payment.
+
+        > [!IMPORTANT]
+        > The prize amount will be paid in USDT to the address you provide in the form.
 
   - type: input
     id: typeform_response_id
